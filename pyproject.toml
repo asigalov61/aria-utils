@@ -15,7 +15,7 @@ dependencies = [
 ]
 
 [project.readme]
-file = "neuralpiano/README.md"
+file = "ariautils/README.md"
 content-type = "text/markdown"
 
 keywords = []
